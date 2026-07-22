@@ -1,0 +1,6 @@
+interface:
+  display_name: "Grill Me"
+  short_description: "Aclara requisitos antes de implementar"
+  default_prompt: "Usa $grill-me para entrevistarme, detectar vacíos y preparar un plan que yo deba aprobar antes de cualquier implementación."
+policy:
+  allow_implicit_invocation: true
